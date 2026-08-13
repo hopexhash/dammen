@@ -18,6 +18,8 @@ Open `index.html` in any browser. Two players share the mouse: click one of your
 
 ## Features
 
+- **3D board**: perspective-tilted board with raised pieces (taller stacks for kings)
+- **Auto-rotate**: after each move the board turns 180° to face the player whose turn it is (toggleable)
 - Legal-move highlighting with capture indication
 - Mandatory-capture messages showing the required capture count
 - Move history in standard 1–50 draughts notation
